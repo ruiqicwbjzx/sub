@@ -1,11 +1,1 @@
-shadowsocks=34.217.15.255:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）
-shadowsocks=35.161.95.165:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）
-shadowsocks=34.219.62.183:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（加拿大）
-shadowsocks=54.218.82.250:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）
-shadowsocks=13.215.184.134:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（台湾）
-shadowsocks=3.38.162.105:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（香港）
-shadowsocks=43.201.149.2:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（日本）
-shadowsocks=47.129.51.44:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（韩国）
-shadowsocks=3.38.115.14:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（新加坡）
-shadowsocks=54.180.127.221:80, method=aes-256-gcm, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（日本）
-111111111111
+111111111
